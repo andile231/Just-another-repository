@@ -3,5 +3,5 @@ Videos, research, notes, etc.
 Link it to the live site https://andile231.github.io/Just-another-repository/
 
 
-Most of the students registered for the Data Visualisation course are based in North America and the UK.
-https://docs.google.com/spreadsheets/d/e/2PACX-1vSDGKC_UQB5udZCz0Y54KcdL7__oIgM2sdxSJ3MyFn6GjXr22Xka4Wr71GghYYdA26nNy1HKjon_6ai/pubchart?oid=1725222489&format=interactive
+The average number of students experienced in data visualisation is higher in Canada and Germany (2.09) compared to India (1.8) and South Africa (2.05).
+https://docs.google.com/spreadsheets/d/e/2PACX-1vRAr9ti1OaPI483wVDJ8L57uHZX9mk3nAEQZO72VVvRANF7WUvOghgOmIEygQzRWjH93loxxAEpcl2k/pubchart?oid=1659020775&format=interactive
